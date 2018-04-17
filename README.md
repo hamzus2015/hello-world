@@ -1,3 +1,3 @@
 # hello-world
-GitHub Tutorial
-This is the first Tutorial on GitHub
+Hi Humans !
+This is my firts Git tutorial, I'm a web developer and like .net,angluar and JavaScript
